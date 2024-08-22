@@ -18,6 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+First project in the frontendmentor.io projects, getting familiar with the platform and setting up my first custom README here.
+
 
 ### Screenshot
 
