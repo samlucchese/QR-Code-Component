@@ -1,0 +1,53 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.attribution{
+	position: relative;
+	bottom: 0;
+	margin-top: auto;
+}
+
+body {
+	margin: 0;
+	height: 100vh;
+	width: 100%;
+	background: #D5E1EF; 
+	display: flex;
+	flex-direction: column;
+	.qr-code-container{
+		background: white;
+		border-radius: 15px;
+		padding: 15px 15px 40px;
+		margin: auto;
+		.scan-container{
+			background: url('/images/image-qr-code.png');
+			background-size: cover;
+			background-position: center;
+			height: 290px;
+			width: 290px;
+			border-radius: 10px;
+			margin-bottom: 20px;
+		}
+		.text-container{
+			text-align: center;
+			max-width: 265px;
+			margin: 0 auto;
+			.qr-title{
+				margin-bottom: 15px;
+				font-family: "Outfit", sans-serif;
+				font-optical-sizing: auto;
+				color: hsl(218, 44%, 22%);
+				font-weight: 700;
+				font-style: normal;
+				font-size: 22px;
+			}
+			.qr-description{
+				font-family: "Outfit", sans-serif;
+				  font-optical-sizing: auto;
+				  font-weight: 400;
+				  font-style: normal;
+				  color: hsl(216, 15%, 48%);
+			}
+		}
+	}
+}
+
