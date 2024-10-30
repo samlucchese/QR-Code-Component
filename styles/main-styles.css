@@ -28,7 +28,7 @@ body .qr-code-container {
   margin: auto;
 }
 body .qr-code-container .scan-container {
-  background: url("/images/image-qr-code.png");
+  background: url("../images/image-qr-code.png");
   background-size: cover;
   background-position: center;
   height: 290px;
