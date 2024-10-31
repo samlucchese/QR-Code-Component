@@ -40,6 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@samlucchese](https://www.frontendmentor.io/profile/samlucchese)
 - LInkedIn- 
-
+# 
 ### Readme template
 - Readme template inspiration from a fellow frontendmentor community solution  
