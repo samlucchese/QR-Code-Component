@@ -55,6 +55,9 @@ body main .qr-code-container .text-container .qr-title {
   font-style: normal;
   font-size: 22px;
 }
+body main .qr-code-container .text-container .qr-title h2 {
+  font-size: 22px;
+}
 body main .qr-code-container .text-container .qr-description {
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
