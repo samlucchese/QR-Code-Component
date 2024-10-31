@@ -12,7 +12,11 @@ body {
 	background: #D5E1EF; 
 	display: flex;
 	flex-direction: column;
-	.qr-code-container{
+	main{
+		display: flex;
+		align-items: center; 
+		height: 100%;
+		.qr-code-container{
 		background: white;
 		border-radius: 15px;
 		padding: 15px 15px 40px;
@@ -48,6 +52,7 @@ body {
 				max-width: 280px;
 			}
 		}
+	}
 	}
 }
 
